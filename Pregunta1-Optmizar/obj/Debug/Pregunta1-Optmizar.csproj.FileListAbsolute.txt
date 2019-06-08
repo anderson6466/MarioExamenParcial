@@ -1,0 +1,7 @@
+c:\users\laboratoriofisi\source\repos\Pregunta1-Optmizar\Pregunta1-Optmizar\obj\Debug\Pregunta1-Optmizar.csprojAssemblyReference.cache
+c:\users\laboratoriofisi\source\repos\Pregunta1-Optmizar\Pregunta1-Optmizar\obj\Debug\Pregunta1-Optmizar.csproj.CoreCompileInputs.cache
+c:\users\laboratoriofisi\source\repos\Pregunta1-Optmizar\Pregunta1-Optmizar\bin\Debug\Pregunta1-Optmizar.exe.config
+c:\users\laboratoriofisi\source\repos\Pregunta1-Optmizar\Pregunta1-Optmizar\bin\Debug\Pregunta1-Optmizar.exe
+c:\users\laboratoriofisi\source\repos\Pregunta1-Optmizar\Pregunta1-Optmizar\bin\Debug\Pregunta1-Optmizar.pdb
+c:\users\laboratoriofisi\source\repos\Pregunta1-Optmizar\Pregunta1-Optmizar\obj\Debug\Pregunta1-Optmizar.exe
+c:\users\laboratoriofisi\source\repos\Pregunta1-Optmizar\Pregunta1-Optmizar\obj\Debug\Pregunta1-Optmizar.pdb
