@@ -81,11 +81,11 @@ Return Early.
 Pregunta 4 :
 Definir cada uno de los principios SOLID:
 
-Single Responsibility Principle:Cada proceso tiene un sola respoenabilidad y es independiente.
-Open Closed Principle: Tiene que tener el codigo necesario y justo, para que no necesite nigun modificacion en el futuro
-Liskov Substitution Principle:Ningun cambio realizado afectara a otro modulos del cual tiene una relacion.
-Interface Segregation Principle:Pueden agregarse clase de nivel segundario , y no causaran impacto a la interface, que es utilizada por todas las clases.
-Dependency Inversion Principle:QUE LAS CLASES DE NIVEL PRINCIPAL, NO DEPENDAN DE OTRAS CLASES DE NIVEL SEGUNDARIO.
+-Single Responsibility Principle:Cada proceso tiene un sola respoenabilidad y es independiente.
+-Open Closed Principle: Tiene que tener el codigo necesario y justo, para que no necesite nigun modificacion en el futuro
+-Liskov Substitution Principle:Ningun cambio realizado afectara a otro modulos del cual tiene una relacion.
+-Interface Segregation Principle:Pueden agregarse clase de nivel segundario , y no causaran impacto a la interface, que es utilizada por todas las clases.
+-Dependency Inversion Principle:QUE LAS CLASES DE NIVEL PRINCIPAL, NO DEPENDAN DE OTRAS CLASES DE NIVEL SEGUNDARIO.
 
 
 Pregunta 6. 
@@ -94,7 +94,7 @@ Explicar las características de una arquitectura limpia:
 La clase de principal debe relacionarse en la determinacion de los nombres de sus metodos.
 No debe de tener comentarios innecesarios , en el codigo.
 Los metodos de negocio no deben redundar en codificacion.
-Mantener un orden en la estrucutura de las capas(PATRON DE DISEÑO), Capa de negocio almacenar la Logica, Capa de Datos , Capa Entidades  que almacenar las clases consus respectivos contructores , encargada de sustraer la informacion de BD, y la Capa de presentacion  es el UI O la cara de la aplicacion.
+Mantener un orden en la estrucutura de las capas(PATRON DE DISEÑO), Capa de negocio almacenar la Logica, Capa de Datos  encargada de sustraer la informacion de BD , debe haber metodos dedicados a ello , Capa Entidades  que almacenar las clases consus respectivos contructores , y la Capa de presentacion  es el UI O la cara de la aplicacion.
 , tener un patron de diseño.
 
 
